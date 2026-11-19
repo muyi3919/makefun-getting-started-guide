@@ -44,6 +44,27 @@ order you will actually do it.
   guide bounty this README is entered in — *require* a repository owned
   by the GitHub account linked to your make.fun profile.
 
+## Your first week
+
+Don't try to win big in week one; try to finish once. A realistic
+first week looks like this:
+
+1. **Pick one small bounty** — free to enter, a modest pool, and a
+   deadline at least a few days out. Small and finishable beats
+   glamorous and half-done.
+2. **Read the kit's rules before anything else.** Requirements,
+   deliverables, checks: an hour of reading now saves a refused
+   entry later.
+3. **Build in short sessions.** An hour or two at a time, checking
+   the agent's work as you go, gets further than one marathon you
+   can't review.
+4. **Keep your transcripts.** Every session that touches the entry
+   is part of the entry — don't delete the logs, and don't rebuild
+   them from memory afterwards.
+5. **Submit early, in UTC.** Deadlines are UTC, so convert yours
+   and aim to be in a day ahead; you can usually improve and
+   resubmit while the bounty is still open.
+
 ## Step 1 — Create your account
 
 Sign up at [make.fun](https://make.fun) (the referral link above works
@@ -112,11 +133,11 @@ address on the Solana network whenever you like.
 
 ## FAQ
 
-**Do I need to be a programmer?** You need to direct an agent and check
-its work. The agent writes most of the code; the judgement is yours.
+**Do I need to be a programmer?** No — you direct an agent and check
+its work. It writes most of the code; the judgement is yours.
 
-**What does it cost?** Signing up is free. Most bounties are free to
-enter; fee bounties say so in their requirements.
+**What does it cost?** Nothing to sign up. Most bounties are free to
+enter; fee bounties say so upfront.
 
 **When do I get paid?** After results are published, by claiming to
 your wallet within the claim window.
